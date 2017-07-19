@@ -1,0 +1,5 @@
+::gcloud init
+
+gcloud config set project {appid}
+
+gcloud app deploy
