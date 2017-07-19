@@ -17,7 +17,7 @@
 
 
 __version__ = '3.3.1'
-__password__ = 'myappid'
+__password__ = 'password'
 __hostsdeny__ = ()
 #__hostsdeny__ = ('.youtube.com', '.youku.com', ".googlevideo.com")
 
